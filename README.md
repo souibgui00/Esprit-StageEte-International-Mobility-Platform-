@@ -115,19 +115,69 @@ The frontend follows the **MVC (Model-View-Controller)** pattern, standard to Sy
 
 ## 📱 Screens
 
-> 📸 *The internship report references the following screens — add screenshots here once available:*
-> - Login page
-> - Register page (back-office)
-> - User list (back-office)
-> - Applications list (back-office)
-> - Offers list (back-office)
-> - Application results list (back-office)
-> - Send emails page (back-office)
-> - Result email preview
-> - Home page (front-office, student view)
-> - About us page (front-office)
-> - Offers page (front-office)
-> - Application form (front-office)
+### 🎓 Front-Office (Student)
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="screenshots/home-front.png" width="100%"/><br/>
+<sub><b>Home</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/about-us.png" width="100%"/><br/>
+<sub><b>About Us</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/offers-front.png" width="100%"/><br/>
+<sub><b>Available Offers</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/application-form.png" width="100%"/><br/>
+<sub><b>Application Form</b></sub>
+</td>
+</tr>
+</table>
+
+### 🛠️ Back-Office (Admin)
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="screenshots/login.png" width="100%"/><br/>
+<sub><b>Login</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/register.png" width="100%"/><br/>
+<sub><b>Register User</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/users-list.png" width="100%"/><br/>
+<sub><b>Users List</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/offers-list.png" width="100%"/><br/>
+<sub><b>Offers List</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+<img src="screenshots/applications-list.png" width="100%"/><br/>
+<sub><b>Applications & Scores</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/results-list.png" width="100%"/><br/>
+<sub><b>Results List</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/send-emails.png" width="100%"/><br/>
+<sub><b>Send Emails</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="screenshots/email-notification.jpeg" width="100%"/><br/>
+<sub><b>Email Notification</b></sub>
+</td>
+</tr>
+</table>
 
 ---
 
